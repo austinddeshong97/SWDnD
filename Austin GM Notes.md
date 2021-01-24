@@ -13,15 +13,19 @@
 * Bryan confronts the Ithorian
   * NPC cant speak basic
 * Peter hijacks Ithorians speeder
+  * Dexterity check: Success (20XP)
 * Bryan checks wisdom to attempt to perceive Peter's theft
-  * Failed
+  * Wisdom check: Failed
 * Peter goes to find black market dealer to sell speeder (5 Turns)
 * Aegis calls an escort for Aicanaro
 * OshKosh sells stolen speeder for +4,500 credits
+  * Attempts to haggle price
+    * Charisma check: Failed
 * Aicanaro and OshKosh converse
-  * OshKosh gives Aicanaro +-500 credits for his troubles
+  * OshKosh gives Aicanaro +500 credits for his troubles
   * Aicanaro invites OshKosh for drinks, OshKosh offers to pay
   * OshKosh orders drinks for both -6cr and asks the bartender whats poppin
+    * Tips -14cr
 * Both go see Devronian Dave
   * Pay -500cr to get ship info
   * Bryan fails to persuade to follow or intimidate
@@ -29,6 +33,14 @@
   * Dock with Aegis' shuttle
 * Aegis joins party
 * Party undocks and jumps to lightspeed
+
+
+
+## End of Session Summary
+
+Aicanaro +500cr, +0xp
+
+OshKosh +3980cr(+4500, -500, -20), +20xp
 
 
 
