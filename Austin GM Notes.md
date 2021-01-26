@@ -38,9 +38,9 @@
 
 ## End of Session Summary
 
-Aicanaro +500cr, +0xp
+Aicanaro +250cr(+500, -250), +0xp
 
-OshKosh +3980cr(+4500, -500, -20), +20xp
+OshKosh +3730cr(+4500, -500, -20, -250), +20xp
 
 
 
