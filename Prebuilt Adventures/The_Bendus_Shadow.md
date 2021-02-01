@@ -1,101 +1,244 @@
-The Bendu’s Shadow
+# The Bendu’s Shadow
 
-Formatting Notes:
-In this module, information is keyed as follows:
- GM Notes will use a background highlight like this.
-Information to be read to the players will be highlighted in grey, like this.
-Skill Checks that can be made in an area will usually fall under that heading, but every possible   check will always be bolded followed by a difficulty
-Potential outcomes or player decision points will be bolded in red. The GM should look for these when trying to respond to player choices.
-External information on Wookieepedia with in-universe explanations will be hyperlinked. This can be used by the GM to see pictures of the linked items, get physical descriptions, etc.
-Maps are provided in the accompanying .png files. These maps are designed specifically for this campaign, so your players may take direct visual cues from what they see on the images. If you feel so inclined, distribute these as handouts/charts to the players.
-Map Notes will highlight which of the included maps a particular section takes place on.
-Story summary:
-In Act 1, the players will find themselves pulled out of hyperspace into the middle of a battle between a Rebel frigate and an Imperial frigate. The Rebels will request help, and regardless of the players’ response, the Rebels will eventually win the battle. Post-battle, the players will be given the opportunity to hijack an Imperial vessel on behalf of the Rebel Alliance. 
-Assuming the players accept, in Act 2, the players will be transported to the vessel-to-be-captured and try to sneak disguised as TIE Fighter pilots. While docking, the players will be confronted by a separate group of Rebels, unaware of the players’ mission. The players will need to find a way to get on board in the face of this obstacle.
-In Act 3, once the players are onboard, they will search the ship and discover that it is largely devoid of human life. Additionally, the hyperdrive is disabled. They will discover the captain of the vessel who, just after expositing to the players about a rogue droid causing havoc, gets shot by the same rogue droid. The droid then flees. The players will need to hunt down the rogue droid, who has been the source of the ship’s problems (including the disabled hyperdrive, which prevents the players from accomplishing their mission). As the players do this, they will meet and aid the vessel’s chief engineer. After successfully getting what they need from the rogue droid, the players will restore the ship’s functions and jump into hyperspace to complete their mission. 
-In the Epilogue (unlabeled), the players will meet up with the Rebels to turn the ship over, only to be ambushed by a Star Destroyer. This leads in to Module Two of this adventure, Stalitz Escape.
-Act 1: Traveling through Hyperspace ain’t like dusting crops, boy!
+### Formatting Notes:
+
+* In this module, information is keyed as follows:
+
+* `GM Notes will be highlighted in grey like this.`
+
+* > *Information to be read to the players will be highlighted like this.*
+
+* **Skill Checks** that can be made in an area will usually fall under that heading, but every possible check will always be **bolded** followed by a difficulty.
+
+* <mark>Potential outcomes or player decision points will be highlighted.</mark> The GM should look for these when trying to respond to player choices.
+
+* External information on [Wookieepedia](https://starwars.fandom.com/wiki/Main_Page) with in-universe explanations will be hyperlinked. This can be used by the GM to see pictures of the linked items, get physical descriptions, etc.
+
+* Maps are provided in the accompanying .png files. These maps are designed specifically for this campaign, so your players may take direct visual cues from what they see on the images. If you feel so inclined, distribute these as handouts/charts to the players.
+
+* Map Notes will highlight which of the included maps a particular section takes place on.
+
+### Story summary:
+In **Act 1**, the players will find themselves pulled out of hyperspace into the middle of a battle between a Rebel frigate and an Imperial frigate. The Rebels will request help, and regardless of the players’ response, the Rebels will eventually win the battle. Post-battle, the players will be given the opportunity to hijack an Imperial vessel on behalf of the Rebel Alliance. 
+
+Assuming the players accept, **in Act 2**, the players will be transported to the vessel-to-be-captured and try to sneak disguised as TIE Fighter pilots. While docking, the players will be confronted by a separate group of Rebels, unaware of the players’ mission. The players will need to find a way to get on board in the face of this obstacle.
+
+In **Act 3**, once the players are onboard, they will search the ship and discover that it is largely devoid of human life. Additionally, the hyperdrive is disabled. They will discover the captain of the vessel who, just after expositing to the players about a rogue droid causing havoc, gets shot by the same rogue droid. The droid then flees. The players will need to hunt down the rogue droid, who has been the source of the ship’s problems (including the disabled hyperdrive, which prevents the players from accomplishing their mission). As the players do this, they will meet and aid the vessel’s chief engineer. After successfully getting what they need from the rogue droid, the players will restore the ship’s functions and jump into hyperspace to complete their mission. 
+
+In the **Epilogue** (unlabeled), the players will meet up with the Rebels to turn the ship over, only to be ambushed by a Star Destroyer. This leads in to Module Two of this adventure, **Stalitz Escape**.
+
+
+
+## Act 1: Traveling through Hyperspace ain’t like dusting crops, boy!
+
 Map Notes: Use a generic Space map for the first two acts.
+
 This section will have the players participate in a battle between the Empire and the Rebels that the Rebel Alliance will end up winning (either through reinforcements or through player aid). Players may participate in clearing the fighter complements of either side and/or lead attacks against either capital ship, potentially destroying either one. The Interdictor must ultimately be destroyed, since it is the item preventing the players’ escape. If players help the Empire, they can still receive the quest from the Rebels post-battle, although the Rebels’ demeanor will be hostile towards them.
-While en route, you feel your ship give a sudden jolt and you hear the hyperdrive whine. You’re not sure what’s just happened, but you know it can’t be good. You’d better check the navicomp fast – you’ve got a bad feeling about this.
-As soon as someone gets into the cockpit (or if they're already there):
-You notice that the starlines are no longer streaking by – you’ve dropped into realspace. This shouldn’t happen! There are no planets nearby. Then, as you turn your head, you see a grey, wedge-shaped ship in the distance in combat with a battle-scarred frigate. This can’t be good. What do you do?
-Each player must make a Wisdom save (DC 14) or become frightened – the wedge-shaped ship can only be one of the Empire’s feared capital ships. If the player has successfully ID’d the vessel as an Immobilizer 418 cruiser (as below), grant advantage to the save of anyone who knows what the ship is.
+
+> *While en route, you feel your ship give a sudden jolt and you hear the hyperdrive whine. You’re not sure what’s just happened, but you know it can’t be good. You’d better check the navicomputer fast – you’ve got a bad feeling about this.*
+
+`As soon as someone gets into the cockpit (or if they're already there):`
+
+> *You notice that the starlines are no longer streaking by – you’ve dropped into realspace. This shouldn’t happen! There are no planets nearby. Then, as you turn your head, you see a grey, wedge-shaped ship in the distance in combat with a battle-scarred frigate. This can’t be good. What do you do?*
+
+```Each player must make a **Wisdom save (DC 14)** or become frightened – the wedge-shaped ship can only be one of the Empire’s feared capital ships. If the player has successfully ID’d the vessel as an [Immobilizer 418 cruiser](https://starwars.fandom.com/wiki/Immobilizer_418_cruiser/Legends), grant advantage to the save of anyone who knows what the ship is.
+
+```
+
+```
 Note: The Cruiser’s stats shouldn’t matter they will only be fighting Tie Fighters (Pg. 14 of Starships of the Galaxy’s)
-	Skill Checks:
-	Intelligence(Technology) (DC 20) to identify the imperial ships (DC 15) to identify the rebel ships
-Ships are Nebulon-B Escort Frigate and Immobilizer 418 (Interdictor) cruiser, along with assorted TIE Fighters and Y-Wings(Statblock). The assuredly Imperial Interdictor is twice the size of likely Rebel Nebulon-B.
-Beat the DC by >5: Each carries a similar complement of fighters and both are similar in terms of firepower. This could be a stalemate. Interdictor is using gravity-well projectors, which create mass shadows, preventing ships from entering hyperspace. Extreme advantage may yield information that this looks to be a medical variant of the standard escort frigate.
+```
 
-Intelligence(Technology) (DC 10) check on the hyperdrive
-Any success should reveal that the hyperdrive, while not in perfect condition, appears to be fully functional
-Intelligence(Technology) (DC 10) check on any shipboard computer
-Any success should indicate that the hyperdrive is functional
-(DC 18): Computer’s ID vessels as above
+
+
+#### Skill Checks:
+
+* **Intelligence(Technology) (DC 20)** Identify the imperial ships **(DC 15) **Identify the rebel ships
+  * Ships are Nebulon-B Escort Frigate and Immobilizer 418 (Interdictor) cruiser, along with assorted TIE Fighters and Y-Wings(Statblock). The assuredly Imperial Interdictor is twice the size of likely Rebel Nebulon-B.
+    * Beat the DC by >5: Each carries a similar complement of fighters and both are similar in terms of firepower. This could be a stalemate. Interdictor is using gravity-well projectors, which create mass shadows, preventing ships from entering hyperspace. Extreme advantage may yield information that this looks to be a medical variant of the standard escort frigate.
+
+* **Intelligence(Technology) (DC 10)** Check on the hyperdrive
+  * Any success should reveal that the hyperdrive, while not in perfect condition, appears to be fully functional
+
+* **Intelligence(Technology) (DC 10)** Check on any shipboard computer
+  * Any success should indicate that the hyperdrive is functional
+  * **(DC 18)**: Computer’s ID vessels as above
+
+
+
+```
 Notes: Players decide what to do. Encourage contributing in some way to the end of the battle, since the Interdictor either needs to be destroyed or turn off its gravity well projectors for them to reenter hyperspace. Players may try to escape at sublight - discourage this with a wing of TIEs chasing them down. Players should ideally choose either to aid the Rebels (who will eventually win this battle) or the Imperials (who will lose).
-After players make a decision:
-You hear a broadcast over your ship’s comm system:
-"Attention, new vessel. This is the Alliance frigate Adegan Sunrise. We are a medical frigate carrying victims from the Imperial attack on the Talasea colonies. We've managed to open a hole in the Interdictor's defenses with our bombers, but they're being torn up by those TIEs. Please help!"
+```
+
+
+
+
+
+<mark>After players make a decision:</mark>
+
+> *You hear a broadcast over your ship’s comm system:*
+>
+> *"Attention, new vessel. This is the Alliance frigate Adegan Sunrise. We are a medical frigate carrying victims from the Imperial attack on the Talasea colonies. We've managed to open a hole in the Interdictor's defenses with our bombers, but they're being torn up by those TIEs. Please help!"*
+
+
+
 Players may try to contact the Imperial vessel, but the Imperial captain should be dismissive, or, at best, arrogant towards the group. The captain may allow their help, but he would not welcome it. As with many Imperials, this captain looks down on the fringe element the player party represents.
-Players should enter combat either with TIEs or with Y-Wings, either way, the battlefield should be treated as hazardous (occasionally make pilot dodge with Piloting Skill(DC 15) Ship takes 3d6 kinetic damage on a fail) due to the quantity of starfighters fighting in close proximity.
-If the players respond by offering to help the Rebels:
-The Rebels should potentially point them in the direction of some of the below actions, provided the players ask how they can help.
-Players should be facing groups of TIEs chasing Y-Wings with at least one of their chosen enemy (TIE if assisting Rebels, Y-Wing if assisting Imperials).
-If the players destroy a TIE Fighter attacking one of the Y-Wings:
-The Y-Wing pilot should ask for help on a bombing run against the Interdictor. If the player is willing to provide cover, allow the Y-Wing to make an (torpedo) attack on the Interdictor. A successful attack should start the destruction of the Interdictor.
+
+Players should enter combat either with TIEs or with Y-Wings, either way, the battlefield should be treated as hazardous (occasionally make pilot dodge with **Piloting Skill(DC 15)** Ship takes 3d6 kinetic damage on a fail) due to the quantity of starfighters fighting in close proximity.
 
 
-If the players attack the either capital ship directly:
-It should start firing on them and one or two of its fighters should break off (or get launched) and attack the player.
-If the players’ actions result in a capital ship starting to be destroyed:
-The capital ship should have at least one round of attacking the player before it goes kaboom.
-If the Interdictor is destroyed before the TIEs are destroyed:
-The players should assist the Rebels in cleanup of the TIE fighters. If there are a lot of TIEs, consider having the TIE pilots surrender after one or two more die.
-If all the TIEs are destroyed but the Interdictor is not:
-The Rebels pass on targeting information to the player and have them lead the Y-Wings in an attack run on the Interdictor. One successful hit by the player should result in several Y-Wings making simultaneous hits, destroying the Interdictor
-If the Nebulon-B is about to be destroyed/is destroyed, all the Y-Wings are destroyed, or the player ship is nearing destruction/is disabled:
-A second Nebulon-B frigate (this time, identifiable as a non-medical variant) should drop out of hyperspace nearly on top of the Interdictor. It should finish off the Interdictor quickly.
+
+<mark>If the players respond by offering to help the Rebels:</mark>
+
+* The Rebels should potentially point them in the direction of some of the below actions, provided the players ask how they can help.
+
+  *Players should be facing groups of TIEs chasing Y-Wings with at least one of their chosen enemy (TIE if assisting Rebels, Y-Wing if assisting Imperials).
+
+
+
+<mark>If the players destroy a TIE Fighter attacking one of the Y-Wings:</mark>
+
+* The Y-Wing pilot should ask for help on a bombing run against the Interdictor. If the player is willing to provide cover, allow the Y-Wing to make an (torpedo) attack on the Interdictor. A successful attack should start the destruction of the Interdictor.
+
+
+
+<mark>If the players attack the either capital ship directly:</mark>
+
+* It should start firing on them and one or two of its fighters should break off (or get launched) and attack the player.
+
+
+
+<mark>If the players’ actions result in a capital ship starting to be destroyed:</mark>
+
+* The capital ship should have at least one round of attacking the player before it goes kaboom.
+
+
+
+<mark>If the Interdictor is destroyed before the TIEs are destroyed:</mark>
+
+* The players should assist the Rebels in cleanup of the TIE fighters. If there are a lot of TIEs, consider having the TIE pilots surrender after one or two more die.
+
+
+
+<mark>If all the TIEs are destroyed but the Interdictor is not:</mark>
+
+* The Rebels pass on targeting information to the player and have them lead the Y-Wings in an attack run on the Interdictor. One successful hit by the player should result in several Y-Wings making simultaneous hits, destroying the Interdictor
+
+
+
+<mark>If the Nebulon-B is about to be destroyed/is destroyed, all the Y-Wings are destroyed, or the player ship is nearing destruction/is disabled:</mark>
+
+* A second Nebulon-B frigate (this time, identifiable as a non-medical variant) should drop out of hyperspace nearly on top of the Interdictor. It should finish off the Interdictor quickly.
+
+
+
+```
 Notes: During this battle, use any opportunity generated by lots of threat/despair to inflict critical hits. By the end of the battle, the players' hyperdrive should be damaged and inoperable. If the player hasn't managed to take this damage, use the explosion of the Interdictor to inflict massive (maybe fiat) damage/critical to the players' vessel. You may also consider simply allowing the enemy forces to wear the entirety of the players’ hull trauma threshold
+```
+
+
+
+```
 Alternatively, if you feel your players would be receptive to it, consider allowing them to be presented with the job offer post-battle before they make it on-board the Rebel craft. If you are hesitant to make the players’ ship take a critical or a lot of damage, you may simply have the Rebels call them over their comms and ask them to come on board – they have a quest for them.
-At the end of the battle:
+```
+
+
+
+<mark>At the end of the battle:</mark>
+
 The players may be in a working but damaged vessel and there should be at least one Rebel frigate remaining at the scene. If the players sided with the Rebels, they should be friendly and offer to tractor the players' ship in for repairs. If the players sided with the Imperials, the Rebels should either shoot to disable their engines or simply tractor them in to be captured.
-Once onboard the Rebel frigate, an opportunity (quest hook) should be presented to the players, either as an offer (aided Rebels) or an imperative (aided Imperials). (Note: If the players aided the Imperials, this should be presented more as a requirement of their capture, and the credit offer should start lower.)
-As you feel your ship sink into place on the Rebel frigate’s deck, you stretch your legs and walk down the gangplank to meet the waiting Rebel contingent.
-"Well, you lot certainly seem like a capable, if somewhat [sniffs] ...disheveled bunch. And it doesn't really look like you're going anywhere for a while. We may be able to use that... but wait, where are my manners. I'm Major Dernigan, Executive Officer on the Adegan Sunrise (or Alderaan's Hope, if the medical frigate was destroyed).”
+
+Once onboard the Rebel frigate, an opportunity (quest hook) should be presented to the players, either as an offer (aided Rebels) or an imperative (aided Imperials). 
+
+```
+(Note: If the players aided the Imperials, this should be presented more as a requirement of their capture, and the credit offer should start lower.)
+```
+
+
+
+> *As you feel your ship sink into place on the Rebel frigate’s deck, you stretch your legs and walk down the gangplank to meet the waiting Rebel contingent.
+> "Well, you lot certainly seem like a capable, if somewhat [sniffs] ...disheveled bunch. And it doesn't really look like you're going anywhere for a while. We may be able to use that... but wait, where are my manners. I'm Major Dernigan, Executive Officer on the Adegan Sunrise (or Alderaan's Hope, if the medical frigate was destroyed).”*
+
 [Give players opportunity to introduce themselves if they want.]
-"Well, here's the pitch: The Alliance has a rare opportunity to, uh, 'liberate' an Imperial blockade runner and repurpose it for ourselves. The nearby [insert system here that might have been near where the players were traveling, if desired] system has an Imperial CR90 corvette - the Bendu’s Shadow - that passes through on a regular patrol route. It's manned primarily by a droid crew, and we've managed to sneak a droid of our own into their droid pool. We'd like you to...
-Another Rebel soldier hands Major Dernigan a datapad. After a short perusal, he looks back up and says,
-"Hmm. Well, this is now a limited-time opportunity. We could really use a group with your set of skills to capture this ship for us. We'd be willing to offer a bounty of 10,000 credits for its capture, and if you manage to bring our droid back to us, we'll throw in an extra 2,000. Oh, and because you helped us out earlier, we'll repair your ship, free of charge. By the time you get back from this mission, you'll think she just came off the line. What do you say?"
-Skill Checks:
-Charisma(Persuasion) (DC 12) for a better price
-Charisma (Intimidation) (DC 20) for a better price
-Give the players 1000 extra for success
-Failure: Refusal, and threat gives them a “Well, we could just lower the price. How do you feel about that?” (Lower reward 500 credits with failed intimidation)
-Perception(DC 15) to ask about what the soldier handed Major Dernigan on the datapad
-On success:
 
-"Oh, uh, well, we just learned that the regular reports we receive from our spy droid have been late for the past three days. We still know where their next couple of stops are going to be, but if we don't hear from the droid soon, we could lose our chance to commandeer the corvette. That's why it's critical that we wrap this up and get you on your way."
-If players question the mission after realizing this:
+> *"Well, here's the pitch: The Alliance has a rare opportunity to, uh, 'liberate' an Imperial blockade runner and repurpose it for ourselves. The nearby Corellia system has an Imperial CR90 corvette - the Bendu’s Shadow - that passes through on a regular patrol route. It's manned primarily by a droid crew, and we've managed to sneak a droid of our own into their droid pool. We'd like you to...*
 
-"Look, if you'll move this along, we'll add another 2000 credits. We can't miss this opportunity."
-If the players ask about the droid crew:
-Tell the players the ship has on board an equal number of old IG-97 and RA-7 droids serving as security and staff, respectively. The IG-97 droids are likely accompanied by G-2RD droids, also security droids. If pressed for information, you can also reveal that the droid the Rebels have sent on board is an RA-7.
-If the players refuse the mission:
-Smack them a little for refusing a quest hook, and then remind them that they can't travel anywhere else with their ship in the state it's in. If they suggest trying to make repairs themselves, note that the Rebel frigate doesn't have supplies with them and they're not about to take a bunch of outlaws to their hidden bases.
-The players accept the mission:
-"Fan-tastic. Here's the plan. Bendu’s Shadow is a specially modified 'pocket carrier' version of the CR90 Corellian Corvette. You're going to sneak aboard as TIE Fighter pilots. As you know, TIE Fighters don't have hyperdrive, so when they find you stranded in open space - from a recent battle, you'll tell them - they'll be obliged to take you on board.”
-"We've captured a number of standard TIE Fighters and outfitted them with the life-support suits you'll need to fly them. We'll drop you off in the area of Bendu’s Shadow's next stop, but you could be sitting in those cockpits for a while."
-"Once you get on board, you'll need to do whatever it takes to take control of the ship. Since it's mostly crewed by droids, it shouldn't be too hard to trick them or scrap them. Once you’ve gained control, you’ll need to adjust the corvette’s transponder to broadcast Alliance codes – that’s how we’ll know it’s you. After that, head into hyperspace and we'll meet you at the next stop on the Corvette's patrol path.
-I suggest you pack up only what you really need for this mission. If you lock the rest up in the hold on your ship, we’ll leave it alone until you return – it’s the least we can do. Let me know when you're ready to go."
+> *Another Rebel soldier hands Major Dernigan a datapad. After a short perusal, he looks back up and says,*
+
+> *"Hmm. Well, this is now a limited-time opportunity. We could really use a group with your set of skills to capture this ship for us. We'd be willing to offer a bounty of 10,000 credits for its capture, and if you manage to bring our droid back to us, we'll throw in an extra 2,000. Oh, and because you helped us out earlier, we'll repair your ship, free of charge. By the time you get back from this mission, you'll think she just came off the line. What do you say?"*
+
+
+
+#### Skill Checks:
+
+* **Charisma(Persuasion) (DC 12)** for a better price
+
+* **Charisma (Intimidation) (DC 20)** for a better price
+
+  * Give the players 1000 extra for success
+
+  * Failure: Refusal, and threat gives them a
+
+    * > “Well, we could just lower the price. How do you feel about that?” 
+
+      (Lower reward 500 credits with failed intimidation)
+
+      
+
+* **Perception(DC 15)** to ask about what the soldier handed Major Dernigan on the datapad
+
+  * On success:
+
+  * > *"Oh, uh, well, we just learned that the regular reports we receive from our spy droid have been late for the past three days. We still know where their next couple of stops are going to be, but if we don't hear from the droid soon, we could lose our chance to commandeer the corvette. That's why it's critical that we wrap this up and get you on your way."*
+
+  * If players question the mission after realizing this:
+
+  * > *"Look, if you'll move this along, we'll add another 2000 credits. We can't miss this opportunity."*
+
+
+
+<mark>If the players ask about the droid crew:</mark>
+
+* Tell the players the ship has on board an equal number of old IG-97 and RA-7 droids serving as security and staff, respectively. The IG-97 droids are likely accompanied by G-2RD droids, also security droids. If pressed for information, you can also reveal that the droid the Rebels have sent on board is an RA-7.
+
+
+
+<mark>If the players refuse the mission:</mark>
+
+* Smack them a little for refusing a quest hook, and then remind them that they can't travel anywhere else with their ship in the state it's in. If they suggest trying to make repairs themselves, note that the Rebel frigate doesn't have supplies with them and they're not about to take a bunch of outlaws to their hidden bases.
+
+<mark>The players accept the mission:</mark>
+
+> *"Fan-tastic. Here's the plan. Bendu’s Shadow is a specially modified 'pocket carrier' version of the CR90 Corellian Corvette. You're going to sneak aboard as TIE Fighter pilots. As you know, TIE Fighters don't have hyperdrive, so when they find you stranded in open space - from a recent battle, you'll tell them - they'll be obliged to take you on board.”*
+
+> *"We've captured a number of standard TIE Fighters and outfitted them with the life-support suits you'll need to fly them. We'll drop you off in the area of Bendu’s Shadow's next stop, but you could be sitting in those cockpits for a while."*
+
+> *"Once you get on board, you'll need to do whatever it takes to take control of the ship. Since it's mostly crewed by droids, it shouldn't be too hard to trick them or scrap them. Once you’ve gained control, you’ll need to adjust the corvette’s transponder to broadcast Alliance codes – that’s how we’ll know it’s you. After that, head into hyperspace and we'll meet you at the next stop on the Corvette's patrol path."*
+
+> *"I suggest you pack up only what you really need for this mission. If you lock the rest up in the hold on your ship, we’ll leave it alone until you return – it’s the least we can do. Let me know when you're ready to go."*
+
+
+
+```
 Note: Because of its droid crew, the Bendu’s Shadow is reduced in autonomy and slaved to a predefined set of hyperspace jumps. This can be revealed to the players as a component of a check, if desired.
+```
 
 
-When the players are ready to go:
-As you go about your business of loading your individual TIEs, you feel the Adegan Sunrise [Alderaan's Hope] slip into hyperspace. Major Dernigan's voice comes over the hangar loudspeaker:
-"Get ready - the jump is a short one. Make sure those flight suits are on tight - as soon as you're all in, we'll depressurize the hangar bay, and your only life support is in those suits. Just like the Emperor to put oxygen at a premium."
-With everyone's flight suit on and cockpits sealed, you hear the rushing of air as it evacuates the large hangar. No sooner than that's begun, you feel the familiar lurch of the frigate reverting to realspace.
-"We've got to go now," Dernigan chimes in, "Best of luck, and, for whatever it's worth, may the Force be with you."
-Act 2: We have met the enemy, and they are…
+
+<mark>When the players are ready to go:</mark>
+
+> *As you go about your business of loading your individual TIEs, you feel the Adegan Sunrise [Alderaan's Hope] slip into hyperspace. Major Dernigan's voice comes over the hangar loudspeaker:*
+
+> *"Get ready - the jump is a short one. Make sure those flight suits are on tight - as soon as you're all in, we'll depressurize the hangar bay, and your only life support is in those suits. Just like the Emperor to put oxygen at a premium."*
+
+> *With everyone's flight suit on and cockpits sealed, you hear the rushing of air as it evacuates the large hangar. No sooner than that's begun, you feel the familiar lurch of the frigate reverting to realspace.*
+
+> *"We've got to go now," Dernigan chimes in, "Best of luck, and, for whatever it's worth, may the Force be with you."*
+
+
+
+## Act 2: We have met the enemy, and they are…
+
 This section is largely a “flavor” portion of the story that will allow the players to have an opportunity to get a handle on piloting individual craft (instead of all being quartered on a single freighter). The encounter with the Z-95s is not intended to be a significant combat encounter – they will likely flee if the players show any real aggression.
 You hear the distinctive growl of the twin ion engines as you lift off and exit the Nebulon-B's hangar bay. As you gain your bearings, you see the ship pull farther and farther away, until eventually it blips into hyperspace. Now the waiting begins.
 The players should be forced to make one of the below checks:
