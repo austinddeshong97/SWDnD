@@ -11,14 +11,16 @@
 
 ### Session Overview
 
-* 
+* Players accept the Gnomengarde Quest and head there
+* Complete the quest by defeating the Mimic and receive 4 magic items from the Gnomes
+* Returned to Phandalin and sell all the items, and buy some new gear
 
 ### Summary
 
 #### Mithril
 
-* 
+* Leveled up to Lvl 4 and bought and sold gear (sheet is up to date)
 
 #### Gorog
 
-* 
+* Leveled up to Lvl 4 (sheet is up to date)
