@@ -1,4 +1,4 @@
-## Dragon of Icespire Peak - Session 3 - 2/XX/2021
+## Dragon of Icespire Peak - Session 3 - 2/13/2021
 
 ### Pre-Session Updates
 
@@ -21,10 +21,13 @@
 
 ### Summary
 
+* Players chose Logger's Camp Quest
+
 #### Mithril
 
-* 
+* 4 orcs killed 100xp ea
 
 #### Gorog
 
-* 
+* 1 orc killed; 100xp
+* Gained Mithral Armor
