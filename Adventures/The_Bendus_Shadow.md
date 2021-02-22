@@ -240,52 +240,96 @@ Note: Because of its droid crew, the Bendu’s Shadow is reduced in autonomy and
 ## Act 2: We have met the enemy, and they are…
 
 This section is largely a “flavor” portion of the story that will allow the players to have an opportunity to get a handle on piloting individual craft (instead of all being quartered on a single freighter). The encounter with the Z-95s is not intended to be a significant combat encounter – they will likely flee if the players show any real aggression.
-You hear the distinctive growl of the twin ion engines as you lift off and exit the Nebulon-B's hangar bay. As you gain your bearings, you see the ship pull farther and farther away, until eventually it blips into hyperspace. Now the waiting begins.
-The players should be forced to make one of the below checks:
-Saving throws:
-Constitution(DC 10): For waiting inside the cramped cockpit for so long
-On a failure accrue one level of exhaustion.
 
-Once players have made their check, they should see:
-After hours of waiting, a dot shows up on the sensor and a familiar hammerhead shape drops out of hyperspace. A prerecorded hail comes in over the comm:
-"This is Captain Dargot of the Imperial vessel Bendu’s Shadow. Submit your identification and await instruction."
+> *You hear the distinctive growl of the twin ion engines as you lift off and exit the Nebulon-B's hangar bay. As you gain your bearings, you see the ship pull farther and farther away, until eventually it blips into hyperspace. Now the waiting begins.*
+
+
+
+> *After hours of waiting, a dot shows up on the sensor and a familiar hammerhead shape drops out of hyperspace. A prerecorded hail comes in over the comm:*
+
+> *"This is Captain Dargot of the Imperial vessel Bendu’s Shadow. Submit your identification and await instruction."*
+
 
 
 The players should send some message to the corvette.
-Skill Checks:
-Charisma(Deception): (DC 12) to lie about their mission
-"Audience approved. TIE pilots, prepare to dock. We'll bring you in."
-Beat DC by >5: Remind the player that this is a prerecorded message, and is likely being filtered through a communications station somewhere - this isn't a direct communication from the captain.
-Failure: "Unknown vessels, do not attempt to leave. You will be brought aboard and searched. Disengage your engines."
-Any other response should use the “failure” response from the Deceit check above.
-Either way, as the players prepare to enter the corvette's hangar bay, four Z-95 Headhunters(Statblock) should drop out of hyperspace. Two of the fighters start attacking the corvette, and two break off to attack the player group.
-Skill Checks:
-Intelligence(Technology)(DC 18) check on the targeting/TIE computer
-Inform the player that these Z-95s are broadcasting Rebel Alliance IFF (Identify Friend/Foe) codes
-Intelligence(Technology)(DC 15) check on to broadcast on a closed channel
-Allow closed channel broadcast in Negotiation check below
-Charisma(Persuasion)(DC 16) check to ask the Z-95s to stand down
-If players identify themselves as working with the Rebel Alliance grant advantage for the check
-On success, Z-95s disengage and enter hyperspace
-If one or two Z-95s are destroyed:
-The remaining Z-95s should flee the system.
-If all Z-95s are destroyed or gone:
-The Bendu’s Shadow’s hangar opens like the maw of a Firaxa. “Cleared for docking. Proceed to hangar bay,” you hear over your comms.
-Players may dock.
-If player's ship gets disabled:
-It should be towed into the hangar with a tractor beam.
-If all players' ships are destroyed/disabled:
-Corvette should finish off the fighters and tractor in the pilots/ships floating in space into the hangar.
-Once the players have made their way into the hangar:
-As all the TIEs set down, you hear the large hangar doors close with a "thunk" behind you. The sound echoes through the tall hangar, which has taken up two floors in the bow of the Corellian Corvette. The hangar floor itself is nearly the full width of the widest part of the ship, and it's a good thing, too - your TIEs only just made it in, even with the help of the Corvette's tractor beams. There's a large metal gantry running above your heads [Note: Deck 2 on the map] and an airlock door in front of you leading to the bottom deck of the ship.
-Act 3: The Bendu’s Shadow
-Map Notes: For each of the following sections, use the (unlabeled) map that is paired with the deck number (i.e. Deck 1 will use “corvette_floor1_docked[_grid].png”).
-Notes: This part will be very free-form. There are four decks for the players to explore, and they can theoretically explore them in any order, although ideally they will take them 1-2-3-4. Act 3 should break down into three narrative sections – Searching the ship, Discovering and Defeating the droid, and Escaping.
 
-Deck 1:
+#### Skill Checks:
+
+**Charisma (Deception): (DC 12)** to lie about their mission
+
+* > *"Audience approved. TIE pilots, prepare to dock. We'll bring you in."*
+  * Beat DC by >5: Remind the player that this is a prerecorded message, and is likely being filtered through a communications station somewhere - this isn't a direct communication from the captain.
+
+  * Failure: 
+
+    * > *"Unknown vessels, do not attempt to leave. You will be brought aboard and searched. Disengage your engines."*
+
+Any other response should use the “failure” response from the Deceit check above.
+
+
+
+Either way, as the players prepare to enter the corvette's hangar bay, four Z-95 Headhunters(Statblock) should drop out of hyperspace. Two of the fighters start attacking the corvette, and two break off to attack the player group
+
+#### Skill Checks:
+
+**Intelligence(Technology)(DC 18)** check on the targeting/TIE computer
+
+* Inform the player that these Z-95s are broadcasting Rebel Alliance IFF (Identify Friend/Foe) codes
+
+**Intelligence(Technology)(DC 15) **to broadcast on a closed channel
+
+* Allow closed channel broadcast in Negotiation check below
+  * **Charisma(Persuasion)(DC 16)** to ask the Z-95s to stand down
+    * If players identify themselves as working with the Rebel Alliance grant advantage for the check
+    * On success, Z-95s disengage and enter hyperspace
+
+
+
+<mark>If one or two Z-95s are destroyed:</mark>
+
+The remaining Z-95s should flee the system.
+
+
+
+<mark>If all Z-95s are destroyed or gone:</mark>
+
+> *The Bendu’s Shadow’s hangar opens like the maw. “Cleared for docking. Proceed to hangar bay,” you hear over your comms.*
+
+
+
+Players may dock.
+
+<mark>If player's ship gets disabled:</mark>
+
+It should be towed into the hangar with a tractor beam.
+
+
+
+<mark>If all players' ships are destroyed/disabled:</mark>
+
+Corvette should finish off the fighters and tractor in the pilots/ships floating in space into the hangar.
+
+Once the players have made their way into the hangar:
+
+> *As all the TIEs set down, you hear the large hangar doors close with a "thunk" behind you. The sound echoes through the tall hangar, which has taken up two floors in the bow of the Corellian Corvette. The hangar floor itself is nearly the full width of the widest part of the ship, and it's a good thing, too - your TIEs only just made it in, even with the help of the Corvette's tractor beams. There's a large metal gantry running above your heads, and an airlock door in front of you leading to the bottom deck of the ship.*
+
+
+
+## Act 3: The Bendu’s Shadow
+
+`Map Notes: For each of the following sections, use the (unlabeled) map that is paired with the deck number (i.e. Deck 1 will use “corvette_floor1_docked[_grid].png”).`
+
+`Notes: This part will be very free-form. There are four decks for the players to explore, and they can theoretically explore them in any order, although ideally they will take them 1-2-3-4. Act 3 should break down into three narrative sections – Searching the ship, Discovering and Defeating the droid, and Escaping.`
+
+
+
+### Deck 1:
 Players should notice that the work stations in all rooms are deserted (you may or may not draw attention to this). Several RA-7/IG-97/G-2RD droids patrol the hallways, but do not otherwise react to the players if they still have some Imperial clothing (e.g. their flightsuits) on. If seen without Imperial markers of some kind, the IG-97 droids should inquire somewhat threateningly as to their purpose onboard. A (DC 15) Deception or (DC 15) Technology should allow them to explain away their presence (Deception) or make the droid forget it needed to ask them (Technology). If the Technology option is chosen, this only works for the droid(s) that had the check made against them. Future security droids may prompt the same question.
-Note: The ladders near (10) and (3) can be used to travel up to Deck 2 at the same relative location. All floors have lift tubes (12) that travel as elevators would
-Note: RA-7 droids use the 3PO Series Protocol Droid stats from p.32 in the Monster manual, the IG-97 Uses the B2 Super Battle Droid stats from p.27 in the Monster Manual, and the G-2RD uses the R2 Series Astromech Droid stats from p.33 in the Monster Manual
+
+`Note: The ladders near (10) and (3) can be used to travel up to Deck 2 at the same relative location. All floors have lift tubes (12) that travel as elevators would`
+
+`Note: RA-7 droids use the 3PO Series Protocol Droid stats from p.32 in the Monster manual, the IG-97 Uses the B2 Super Battle Droid stats from p.27 in the Monster Manual, and the G-2RD uses the R2 Series Astromech Droid stats from p.33 in the Monster Manual`
+
 Passing (DC 12) Perception checks in any of these rooms may be used to clue the players in as to what they can perform. Primarily, the players will rely on Mechanics and Computers. If the players don’t take cues from the maps themselves, be sure to describe the primary features of the rooms as they are depicted on the maps (e.g. “as you enter engineering, you can see two computer terminals and a large computer screen displaying engine data.”).
 Hangar:
 Skill Checks:
