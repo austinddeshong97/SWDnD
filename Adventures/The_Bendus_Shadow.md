@@ -237,6 +237,8 @@ Note: Because of its droid crew, the Bendu’s Shadow is reduced in autonomy and
 
 
 
+
+
 ## Act 2: We have met the enemy, and they are…
 
 This section is largely a “flavor” portion of the story that will allow the players to have an opportunity to get a handle on piloting individual craft (instead of all being quartered on a single freighter). The encounter with the Z-95s is not intended to be a significant combat encounter – they will likely flee if the players show any real aggression.
@@ -270,7 +272,9 @@ Any other response should use the “failure” response from the Deceit check a
 
 Either way, as the players prepare to enter the corvette's hangar bay, four Z-95 Headhunters(Statblock) should drop out of hyperspace. Two of the fighters start attacking the corvette, and two break off to attack the player group
 
-#### Skill Checks:
+
+
+**Skill Checks:**
 
 **Intelligence(Technology)(DC 18)** check on the targeting/TIE computer
 
@@ -315,6 +319,8 @@ Once the players have made their way into the hangar:
 
 
 
+
+
 ## Act 3: The Bendu’s Shadow
 
 `Map Notes: For each of the following sections, use the (unlabeled) map that is paired with the deck number (i.e. Deck 1 will use “corvette_floor1_docked[_grid].png”).`
@@ -324,218 +330,539 @@ Once the players have made their way into the hangar:
 
 
 ### Deck 1:
-Players should notice that the work stations in all rooms are deserted (you may or may not draw attention to this). Several RA-7/IG-97/G-2RD droids patrol the hallways, but do not otherwise react to the players if they still have some Imperial clothing (e.g. their flightsuits) on. If seen without Imperial markers of some kind, the IG-97 droids should inquire somewhat threateningly as to their purpose onboard. A (DC 15) Deception or (DC 15) Technology should allow them to explain away their presence (Deception) or make the droid forget it needed to ask them (Technology). If the Technology option is chosen, this only works for the droid(s) that had the check made against them. Future security droids may prompt the same question.
+Players should notice that the work stations in all rooms are deserted (you may or may not draw attention to this). Several RA-7/IG-97/G-2RD droids patrol the hallways, but do not otherwise react to the players if they still have some Imperial clothing (e.g. their flightsuits) on. 
+
+If seen without Imperial markers of some kind, the IG-97 droids should inquire somewhat threateningly as to their purpose onboard. A **(DC 15) Charisma (Deception)** or **(DC 15) Intelligence (Technology)** should allow them to explain away their presence (Deception) or make the droid forget it needed to ask them (Technology). If the Technology option is chosen, this only works for the droid(s) that had the check made against them. Future security droids may prompt the same question.
 
 `Note: The ladders near (10) and (3) can be used to travel up to Deck 2 at the same relative location. All floors have lift tubes (12) that travel as elevators would`
 
 `Note: RA-7 droids use the 3PO Series Protocol Droid stats from p.32 in the Monster manual, the IG-97 Uses the B2 Super Battle Droid stats from p.27 in the Monster Manual, and the G-2RD uses the R2 Series Astromech Droid stats from p.33 in the Monster Manual`
 
 Passing (DC 12) Perception checks in any of these rooms may be used to clue the players in as to what they can perform. Primarily, the players will rely on Mechanics and Computers. If the players don’t take cues from the maps themselves, be sure to describe the primary features of the rooms as they are depicted on the maps (e.g. “as you enter engineering, you can see two computer terminals and a large computer screen displaying engine data.”).
-Hangar:
-Skill Checks:
+
+#### Hangar:
+
+ **Skill Checks:**
+
 With the right tools (i.e. rope, grappling hook, if such things exist) the player can make an Athletics (DC 10) check to ascend to or descend from the gantry on the second level
-Move the player to the level they were traveling to
+
 If you're mean, you can make the players make a Constitution Save (DC18 ) if they do something dumb, like take off their flight suits before heading through the airlock. You could also just fiat that the hangar pressurizes and fills with air immediately after the hangar door closes.
-Intelligence(Lore): (DC 13) check about the ship itself
-Learn that the corvette has four floors, and beating the DC by >5 should reveal specific locations of major systems (e.g. crew quarters on Deck 2, bridge on Deck 3)
-Engineering:
-Skill Checks:
+
+**Intelligence(Lore): (DC 13)** check about the ship itself
+
+* Learn that the corvette has four floors, and beating the DC by >5 should reveal specific locations of major systems (e.g. crew quarters on Deck 2, bridge on Deck 3)
+
+
+
+#### Engineering:
+
+**Skill Checks:**
+
 Intelligence(Slicer’s Kit, or Technology): (DC 13) at the Computer area
+
 Discover the Hyperdrive is disabled
+
 Beat DC by >5: Reveal that a security passkey is needed to unlock the hyperdrive, along with the chief engineer’s voiceprint.
+
 Beat DC by >5: Remind the players that the hyperdrive must have recently been disabled, as it jumped into the system just minutes ago
-Sensors:
-Skill Checks:
-Intelligence(Slicer’s Kit): (DC 13) at the terminals
-Confirm that enemies attacking (Z-95s) were Rebel Z-95s attempting a hit-and-fade attack, a common strategy used to wear down Imperial resources, and one which the Bendu’s Shadow has seen several of
-Beat DC by >5: Reveal that the most recent attack was three days earlier
-Droid Maintenance:
-Skill Checks:
-Intelligence(Slicer’s Kit): (DC 15) at the terminals
-Reveal that several droids have seen maintenance recently
-If the players asked for extra information about the Rebels’ spy droid at the beginning of the quest, they should learn that the Rebel RA-7 was one of the first droids to receive maintenance.
-Beat DC by >5: Reveal that this is a much more frequent update schedule than normal
-Beat DC by >7: Reveal that the droid technician found something that shouldn’t have been there in one of the RA-7 droids (again, identified as the Rebel droid, if the players asked about it earlier)
-
-Droid Storage:
-Skill Checks:
-Intelligence(Technology): (DC 12) on the Droids
-Reveals that all of the astromech droids (5) in this storage are broken or disabled
-Intelligence(Astrotech’s Tools): (DC 22) to fix the droids, if the droids have been ID’d as broken
-Advantage is granted if the PC’s is proficient in Astrotech’s tools
-An additional d4 may be added if the players have picked up tools from the Workshop (or Workshop storage) on Deck 1 or Deck
-Fixing the droid will bring an astromech droid online; it can be used as an assistant in later tasks if the player keeps him around
-Beat DC by >7: Identify that the droids have been tampered with, perhaps set to short-circuit
-Failure: Cause the droid to explode or short-circuit, dealing 1d4 kinetic damage to the players. There are only five droids to try to fix.
-Dexterity(Security): (DC 15) on the boxes/crates/storage
-Open the crate and find a Restraining Bolt
 
 
-Workshop:
-Players may find a set of tools that enable them to operate on some ship’s components (basically, a Tool Kit designed to provide an additional d4 on this ship specifically when the situation notes). Optionally, the above as a (DC 10) Perception or Technology check.
-Ship Security:
-Players see blaster racks on the walls, each containing four blaster rifles. These are effectively limitless in availability.
 
-Skill Checks:
-Intelligence(Slicer’s Kit): (DC 15) at the terminals to view ship security cameras
-Reveal the entire floor to the player
-Beat DC by >5,7,9: Each additional advantage should reveal another floor (with the exception of the escape pods on deck 4, which have no security cameras)
-Fail by >5: Incite a scuffle with IG-97 security droids
-Intelligence(Slicer’s Kit): (DC 12) To try
-Reveal the entire floor to the player
-Beat DC by >5,7,9: Each additional advantage should reveal another floor (with the exception of the escape pods on deck 4, which have no security cameras)
-Fail by >5: Incite a scuffle with IG-97 security droids
+#### Sensors:
 
-Deck 2:
+**Skill Checks:**
+
+**Intelligence(Slicer’s Kit): (DC 13)** at the terminals
+
+* Confirm that enemies attacking (Z-95s) were Rebel Z-95s attempting a hit-and-fade attack, a common strategy used to wear down Imperial resources, and one which the Bendu’s Shadow has seen several of
+
+* Beat DC by >5: Reveal that the most recent attack was three days earlier
+
+
+
+#### Droid Maintenance:
+
+**Skill Checks:**
+
+**Intelligence(Slicer’s Kit): (DC 15)** at the terminals
+
+* Reveal that several droids have seen maintenance recently
+
+* If the players asked for extra information about the Rebels’ spy droid at the beginning of the quest, they should learn that the Rebel RA-7 was one of the first droids to receive maintenance.
+
+* Beat DC by >5: Reveal that this is a much more frequent update schedule than normal
+
+* Beat DC by >7: Reveal that the droid technician found something that shouldn’t have been there in one of the RA-7 droids (again, identified as the Rebel droid, if the players asked about it earlier)
+
+
+
+#### Droid Storage:
+
+**Skill Checks:**
+
+**Intelligence(Technology): (DC 12)** on the Droids
+
+* Reveals that all of the astromech droids (5) in this storage are broken or disabled
+
+
+
+**Intelligence(Astrotech’s Tools): (DC 22)** to fix the droids, if the droids have been ID’d as broken
+
+* Advantage is granted if the PC’s is proficient in Astrotech’s tools
+
+* An additional d4 may be added if the players have picked up tools from the Workshop (or Workshop storage) on Deck 1 or Deck
+
+* Fixing the droid will bring an astromech droid online; it can be used as an assistant in later tasks if the player keeps him around
+
+* Beat DC by >7: Identify that the droids have been tampered with, perhaps set to short-circuit
+
+* Failure: Cause the droid to explode or short-circuit, dealing 1d4 kinetic damage to the players. There are only five droids to try to fix.
+
+
+
+**Dexterity(Security): (DC 15)** on the boxes/crates/storage
+
+* Open the crate and find a Restraining Bolt
+
+
+
+#### Workshop:
+
+Players may find a set of tools that enable them to operate on some ship’s components (basically, a Tool Kit designed to provide an additional d4 on this ship specifically when the situation notes). Optionally, the above as a **(DC 10) Perception** or **Technology** check.
+
+#### Ship Security:
+
+> Players see blaster racks on the walls, each containing four blaster rifles. These are effectively limitless in availability.
+
+
+
+**Skill Checks:**
+
+**Intelligence(Slicer’s Kit): (DC 15)** at the terminals to view ship security cameras
+
+* Reveal the entire floor to the player
+
+* Beat DC by >5,7,9: Each additional advantage should reveal another floor (with the exception of the escape pods on deck 4, which have no security cameras)
+
+* Fail by >5: Incite a scuffle with IG-97 security droids
+
+
+
+### Deck 2:
+
 Deck 2 is similar to Deck 1 in that it is patrolled regularly by IG-97, G-2RD, and RA-7 droids. Deck 2 is the crew quarters deck aboard most CR90 corvettes, although this one has had modifications to turn extra crew quarters (rendered unnecessary by the amount of droids onboard) into extra amenities (lounge, brig, security, galley).
-A (DC 10) Perception check, when near the brig, will alert the players to a banging/yelling sound coming from within. If passed, the players should hear a voice shouting “Help me! Let me out of here!” Beating the DC by >5 should allow the players to recognize the voice as matching the voice from the recording of the ship’s captain they heard earlier. If questioned as to its identity, the voice should answer “Who do I sound like, you fools? This is Captain Dargot! Now get me out of here!” Repeated inquiries should be met with the questions rebuffed and the imperative (“Get me out of here!”) repeated.
-Engineering: 
+
+A **(DC 10) Perception** check, when near the brig, will alert the players to a banging/yelling sound coming from within. 
+
+If passed, the players should hear a voice shouting: 
+
+> *“Help me! Let me out of here!”*
+
+Beating the DC by >5 should allow the players to recognize the voice as matching the voice from the recording of the ship’s captain they heard earlier. 
+
+If questioned as to its identity, the voice should answer:
+
+> *“Who do I sound like, you fools? This is Captain Dargot! Now get me out of here!”* 
+
+Repeated inquiries should be met with the questions rebuffed and the imperative (“Get me out of here!”) repeated.
+
+
+
+#### Engineering: 
+
 Same as Deck 1.
 
-Sensors:
+
+
+#### Sensors:
+
 Same as Deck 1.
-Main engine access:
-If the players enter here before the rogue droid encounter starts, treat this as Engineering. If the players enter here after the droid encounter has started, bulkheads should close and a pre-recorded announcement should play:
-“Automatic response to organic presence: Elimination protocol initiated.”
-You see a barely visible but noticeable noxious gas enter the room. You begin to feel a little weak.
-Note that diluted, but still toxic, cyanogen gas begins to enter the room. The gas remains in the areas with the grated floor (Main engine access) until the traps are disabled, regardless of whether the players escape. This trap can still trigger even after the players have defeated the rogue droid.
-Droids will be unaffected, as will anyone who is wearing breath mask-type equipment. Other characters will need to make a (DC 12) Constitution Saving throw or take 1d6 poison damage per turn and become poisoned
-Skill Checks:
-Dexterity(Security Kit): (DC 15) check to disable the traps, if the trap has been sprung
-Noxious gas turns off and PC’s no longer take poison damage
-Intelligence(Slicer’s Kit) (DC 15) or Intelligence(Technology) (DC 18): To open the bulkhead doors
-Note: Players must use one of the computers in the main engine access to restart the hyperdrive once they have the security passkey.
-Crew/Officers’ quarters:
+
+
+
+#### Main engine access:
+
+<mark>If the players enter here before the rogue droid encounter starts, treat this as Engineering. </mark>
+
+
+
+<mark>If the players enter here after the droid encounter has started, bulkheads should close and a pre-recorded announcement should play:</mark>
+
+> *“Automatic response to organic presence: Elimination protocol initiated.”*
+
+> *You see a barely visible but noticeable noxious gas enter the room. You begin to feel a little weak.*
+
+
+
+> Note that diluted, but still toxic, cyanogen gas begins to enter the room. The gas remains in the areas with the grated floor (Main engine access) until the traps are disabled, regardless of whether the players escape. This trap can still trigger even after the players have defeated the rogue droid.
+
+Droids will be unaffected, as will anyone who is wearing breath mask-type equipment. Other characters will need to make a **(DC 12) Constitution Saving throw** or take 1d6 poison damage per turn and become poisoned
+
+
+
+**Skill Checks:**
+
+**Dexterity(Security Kit): (DC 15)** check to disable the traps, if the trap has been sprung
+
+* Noxious gas turns off and PC’s no longer take poison damage
+
+
+
+**Intelligence(Slicer’s Kit) (DC 15) or Intelligence(Technology) (DC 18)**: To open the bulkhead doors
+
+
+
+`Note: Players must use one of the computers in the main engine access to restart the hyperdrive once they have the security passkey.`
+
+
+
+#### Crew/Officers’ quarters:
 
 Skill Checks:
-Dexterity(Security Kit): (DC 15) check on any of the footlockers in the officers’/crewmen’s rooms (your choice)
-Give the players the droid technician’s log:
 
-“Entry 97-C: Oh, this irony is delicious. The Rebel attack earlier today damaged this RA-7 droid, but what should I find when I open it up to repair it? Specialized espionage circuitry! Had those scofflaws managed to be a little more judicious in their strikes, we might have never discovered this. Well, I’ll show them. Just a few tweaks here… [sounds of tinkering] …and there… [more sounds] …and we’ll put this right back into service working for us as a double agent!”
-“Entry 98-A: I’ve made a terrible mistake. I thought I disabled the RA-7’s Rebel directives when I added its new Imperial commands in. I’m pretty sure what I did instead was give the droid a fatal logic error in two conflicting sets of instructions. Now it’s just hunting anything organic it can find. Why? I don’t know, but I’m not about to get close enough to try and find out. The captain’s given the general order to get to the escape pods and abandon ship in one hour. I guess this is the last entry I’ll get to make on this ‘pad.”
-Brig:
-Skill Checks:
-Dexterity(Security Kit) (DC 15) Strength(Athletics) (DC 21): to open the doors
-There are three doors, and a failure on the Security check by>5 (or just a failure) should make the locking mechanism break. If all locking mechanisms break, players must pass the Athletics check to break down the door, which two players may work together for advantage. Failure to pass the athletics check twice should result in a level of exhaustion.
-If the doors are successfully unlocked:
-A harried man in the jet-black Imperial naval uniform turns to you, and you can see the “captain” rank insignia on his chest:
-“Harumph. And who are you? You don’t look to be part of my regular crew. They should have all followed my orders to evacuate.”
-If the players fail a (DC 15) Deception check, the captain says:
-“Hah, nice try. This isn’t the first time I’ve dealt with your scum. Spacers, pirates – trash, the lot of you. Regardless, [continue below as though passed the check] …
-If the players pass a successful (DC 15) Deception check, the captain goes on:
-“I suppose it’s well enough that you’re here. About three days ago one of our RA-7 droids was damaged in an attack. When repairing him, the droid technician noticed that he had some unusual circuitry installed – well, even more unusual than normal for an RA-7. He believed with some degree of certainty that it was a droid equipped to spy on the workings of this ship. In a display equal parts initiative and incompetence, he decided to rewire it back into a double agent. Of course, something went wrong, and now the droid…”
-A blaster bolt whizzes past the party’s heads and into Captain Dargot’s chest. He slumps to the ground. As the group turns around, they see a silver RA-7 droid pointing a blaster at the spot formerly occupied by the captain.
-“All Imperial targets eliminated.”
-He cocks his head and turns towards the players.
-“Recalibrating. Organics not part of crew manifest. Ship reports TIE Fighters docked not long ago. Conclusion: New organics Imperial in nature. Objective updated.”
-No sooner than the droid says this, it dashes off into the hallways of the eerily-lifeless corvette.
+**Dexterity(Security Kit): (DC 15)** check on any of the footlockers in the officers’/crewmen’s rooms (your choice)
+
+* Give the players the droid technician’s log:
+
+* > *“Entry 97-C: Oh, this irony is delicious. The Rebel attack earlier today damaged this RA-7 droid, but what should I find when I open it up to repair it? Specialized espionage circuitry! Had those scofflaws managed to be a little more judicious in their strikes, we might have never discovered this. Well, I’ll show them. Just a few tweaks here… [sounds of tinkering] …and there… [more sounds] …and we’ll put this right back into service working for us as a double agent!”*
+
+* > *“Entry 98-A: I’ve made a terrible mistake. I thought I disabled the RA-7’s Rebel directives when I added its new Imperial commands in. I’m pretty sure what I did instead was give the droid a fatal logic error in two conflicting sets of instructions. Now it’s just hunting anything organic it can find. Why? I don’t know, but I’m not about to get close enough to try and find out. The captain’s given the general order to get to the escape pods and abandon ship in one hour. I guess this is the last entry I’ll get to make on this ‘pad.”*
+
+
+
+#### Brig:
+
+**Skill Checks:**
+
+**Dexterity(Security Kit) (DC 15) Strength(Athletics) (DC 21)**: to open the doors
+
+* There are three doors, and a failure on the Security check by>5 (or just a failure) should make the locking mechanism break. If all locking mechanisms break, players must pass the Athletics check to break down the door, which two players may work together for advantage. Failure to pass the athletics check twice should result in a level of exhaustion.
+
+
+
+<mark>If the doors are successfully unlocked:</mark>
+
+> *A harried man in the jet-black Imperial naval uniform turns to you, and you can see the “captain” rank insignia on his chest:*
+
+> *“Harumph. And who are you? You don’t look to be part of my regular crew. They should have all followed my orders to evacuate.”*
+
+
+
+<mark>If the players fail a (DC 15) Deception check, the captain says:</mark>
+
+> *“Hah, nice try. This isn’t the first time I’ve dealt with your scum. Spacers, pirates – trash, the lot of you.*
+
+Regardless, [continue below as though passed the check] …
+
+
+
+<mark>If the players pass a successful (DC 15) Deception check, the captain goes on:</mark>
+
+> *“I suppose it’s well enough that you’re here. About three days ago one of our RA-7 droids was damaged in an attack. When repairing him, the droid technician noticed that he had some unusual circuitry installed – well, even more unusual than normal for an RA-7. He believed with some degree of certainty that it was a droid equipped to spy on the workings of this ship. In a display equal parts initiative and incompetence, he decided to rewire it back into a double agent. Of course, something went wrong, and now the droid…”*
+
+> *A blaster bolt whizzes past the party’s heads and into Captain Dargot’s chest. He slumps to the ground. As the group turns around, they see a silver RA-7 droid pointing a blaster at the spot formerly occupied by the captain.*
+
+> *“All Imperial targets eliminated.”*
+
+> He cocks his head and turns towards the players.
+
+> *“Recalibrating. Organics not part of crew manifest. Ship reports TIE Fighters docked not long ago. Conclusion: New organics Imperial in nature. Objective updated.”*
+
+> *No sooner than the droid says this, it dashes off into the hallways of the eerily-lifeless corvette.*
+
 And then the droid should flee from the scene. The rogue Rebel RA-7 spy droid should vanish until the players are able to find him, which can be accomplished through these activities:
-Skill Checks:
-Wisdom(Perception): (DC 18) on one of the patrolling RA-7’s
-The players identify the droid as the rogue droid trying to blend in – should probably only allow this once per floor
-Intelligence(Slicer’s Kit): (DC 20) in the Sensor core (any deck) to reconfigure the sensors to search inside the ship
-This should show where the droid is in the ship, which may not necessarily be near the players
-Destroying three RA-7 droids: (which are otherwise noncombatant)
-Causes the rogue droid to reveal himself; this can be either him revealing himself in person or over the intercom. Attacking the RA-7s will also cause nearby IG-97s to attack.
-If the player repaired an astromech earlier:
-The astromech should beep and volunteer to identify the droid (it has an easier time recognizing the subtle differences between the rogue RA-7 and the other protocol droids on board). Roll a percentage die whenever this astromech encounters an RA-7 droid. If the percentage die is greater than 70%, the astromech will identify the RA-7 as the rogue droid.
-Once the droid has revealed himself:
-Players should be aware of his presence whenever he’s on a floor that the players are on. The droid should flee from players if they approach him from only one direction. He should travel like players would, using lift tubes and ladders. He can travel to any floor. When the players approach him from opposite directions, he should try to “hide” in the nearest room. Upon entering this room, the droid is backed into a corner and will fight the players.
-Notes: Once Revealed the RA-7 will use the BX-5C Series Supercommando Droid stats from p.28 of the Monster Manual
-Upon the rogue droid’s defeat:
-You hear a tinny sound from the droid’s failing vocabulator as it speaks one last ringing command:
-“Engage contingency protocol: Parasite program activated.
-And with a final electrical sputter, the rogue droid collapses.
-Defeating the rogue RA-7:
-This will allow the players to make a (DC 10) Slicer’s Kit check to gain the passkey to re-enable the hyperdrive. If this is untenable, you can cause a hidden compartment on the droid to pop open and spit out a datapad with the proper information. If the players forget this part now, the chief engineer will remind them of the need for the passkey later (as well as the fact that the rogue droid has/had the passkey). This passkey can be used in the Main Engine Access (Deck 2) to reenable the hyperdrive. 
-This also makes the IG-97 and G-2RD security droids hostile to the player. These droids will now patrol the hallways, and the players can avoid being seen with (DC 13) Stealth checks. If the players duck into a room, the DC drops by 2. IG-97s should only patrol the hallways. If the players engage in battle with the droids, they should slowly “swarm” all the security droids from that deck to the players’ location.
 
-Deck 3:
+
+
+**Skill Checks:**
+
+**Wisdom(Perception): (DC 18)** on one of the patrolling RA-7’s
+
+* The players identify the droid as the rogue droid trying to blend in – should probably only allow this once per floor
+
+
+
+**Intelligence(Slicer’s Kit): (DC 20)** in the Sensor core (any deck) to reconfigure the sensors to search inside the ship
+
+* This should show where the droid is in the ship, which may not necessarily be near the players
+
+
+
+<mark> Destroying three RA-7 droids: (which are otherwise noncombatant) </mark>
+
+Causes the rogue droid to reveal himself; this can be either him revealing himself in person or over the intercom. Attacking the RA-7s will also cause nearby IG-97s to attack.
+
+
+
+<mark>If the player repaired an astromech earlier:</mark>
+
+The astromech should beep and volunteer to identify the droid (it has an easier time recognizing the subtle differences between the rogue RA-7 and the other protocol droids on board). Roll a percentage die whenever this astromech encounters an RA-7 droid. If the percentage die is greater than 70%, the astromech will identify the RA-7 as the rogue droid.
+
+
+
+<mark>Once the droid has revealed himself:</mark>
+
+Players should be aware of his presence whenever he’s on a floor that the players are on. The droid should flee from players if they approach him from only one direction. He should travel like players would, using lift tubes and ladders. He can travel to any floor. When the players approach him from opposite directions, he should try to “hide” in the nearest room. Upon entering this room, the droid is backed into a corner and will fight the players.
+
+
+
+`Notes: Once Revealed the RA-7 will use the BX-5C Series Supercommando Droid stats from p.28 of the Monster Manual`
+
+
+
+Upon the rogue droid’s defeat:
+
+> *You hear a tinny sound from the droid’s failing vocabulator as it speaks one last ringing command:*
+
+> *“Engage contingency protocol: Parasite program activated.*
+
+> *And with a final electrical sputter, the rogue droid collapses.*
+
+
+
+<mark>Defeating the rogue RA-7:</mark>
+
+This will allow the players to make a **(DC 10) Slicer’s Kit** check to gain the passkey to re-enable the hyperdrive. If this is untenable, you can cause a hidden compartment on the droid to pop open and spit out a datapad with the proper information. If the players forget this part now, the chief engineer will remind them of the need for the passkey later (as well as the fact that the rogue droid has/had the passkey). This passkey can be used in the Main Engine Access (Deck 2) to reenable the hyperdrive. 
+
+This also makes the IG-97 and G-2RD security droids hostile to the player. These droids will now patrol the hallways, and the players can avoid being seen with **(DC 13) Stealth** checks. If the players duck into a room, the DC drops by 2. IG-97s should only patrol the hallways. If the players engage in battle with the droids, they should slowly “swarm” all the security droids from that deck to the players’ location.
+
+
+
+### Deck 3:
+
 As with Decks 1 and 2, various droids should be patrolling the hallways. At least one security droid should be permanently stationed outside of the bridge (not patrolling).
-Engineering:
+
+
+
+#### Engineering:
+
 Same as Deck 1.
-Sensors:
+
+
+
+#### Sensors:
+
 Same as Deck 1.
-Bridge:
+
+
+
+#### Bridge:
+
 The players must be on the bridge to do any piloting/weapons checks with the vessel. Until the hyperdrive has been brought online, nothing of import happens on the bridge.
 
 
-Medbay:
+
+#### Medbay:
+
 The medbay contains two Bacta Tanks as well as medical chairs that will function as a Medpac (these cannot be removed from the room).
+
 Using the Bacta Tanks on Harroch (instead of normal Bacta Tank rules) will reduce the difficulty of the Medicine check by (5).
-Workshop/Workshop storage:
-Players may find a set of tools that enable them to operate on some ship’s components (basically, a Tool Kit designed to provide an additional d4 on this ship specifically when the situation notes). Optionally, the above as a (DC 10) Perception or Technology check.
-Sensors/comms control:
-Skill Checks:
-A combined Security Kit and Slicer’s Kit (DC 37) check to set the IFF transponder to broadcast a Rebel IFF
+
+
+
+#### Workshop/Workshop storage:
+
+Players may find a set of tools that enable them to operate on some ship’s components (basically, a Tool Kit designed to provide an additional d4 on this ship specifically when the situation notes). Optionally, the above as a **(DC 10) Perception or Technology** check.
+
+
+
+#### Sensors/comms control:
+
+**Skill Checks:**
+
+A combined **Security Kit and Slicer’s Kit (DC 37)** check to set the IFF transponder to broadcast a Rebel IFF
+
 Forgetting to do this should result in the Adegan Sunrise firing on the players at the end of the scenario (they should really only take a potshot until the failure to communicate that they’re on the same side is resolved)
 
-Deck 4:
+
+
+### Deck 4:
+
 This floor should be relatively empty. You may find one or two RA-7 droids wandering the floor, but there should be no IG-97 or G-2RD security droids. The players should see a few corpses of crewman strewn out by the escape pods, blaster marks on their chests.
-Escape pods:
+
+
+
+#### Escape pods:
+
 Most of the escape pods should be filled with the remaining corpses of the Bendu’s Shadow crew. On searching one (your choice) of the escape pods:
-As you peer through the slumped-over corpses of the unfortunate crew of the Bendu’s Shadow, you find a man clutching his chest and wheezing:
-“[moan]… Who’s there? If it’s that sithspawn of a droid, just shoot me now and get it over with.”
-He peers up at the you;
-“Wait, who’s this? Wait… you know what, I don’t really care. I’m Lieutenant Harroch, chief engineer on this vessel. [cough] …medbay, please. Get me to the medbay.”
-Harroch is a stocky, well-built human, clad in the black uniform of an Imperial officer. He looks highly disheveled, no doubt from his recent brush with death, and his skin has a sickly pallor to it
+
+> *As you peer through the slumped-over corpses of the unfortunate crew of the Bendu’s Shadow, you find a man clutching his chest and wheezing:*
+
+> *“[moan]… Who’s there? If it’s that sithspawn of a droid, just shoot me now and get it over with.”
+> He peers up at the you;*
+
+> *“Wait, who’s this? Wait… you know what, I don’t really care. I’m Lieutenant Harroch, chief engineer on this vessel. [cough] …medbay, please. Get me to the medbay.”*
+
+> *Harroch is a stocky, well-built human, clad in the black uniform of an Imperial officer. He looks highly disheveled, no doubt from his recent brush with death, and his skin has a sickly pallor to it*
+
+
+
 If the players haven’t found the Medbay yet, Harroch should inform them that it’s on Deck 3. Any more questions should be met with Harroch drifting in and out of consciousness.
-Notes: Chief Engineer Harroch uses the Spy stats on p.46 of the Monster Manual.
-Skill Checks:
-Wisdom(Medicine): (DC 15) to Heal Harroch
-Once Harroch is healed [this may be now taking place in the medbay]:
-If the players ask any questions:
+
+`Notes: Chief Engineer Harroch uses the Spy stats on p.46 of the Monster Manual.`
+
+
+
+**Skill Checks:**
+
+**Wisdom(Medicine): (DC 15)** to Heal Harroch
+
+<mark>Once Harroch is healed [this may be now taking place in the medbay]:</mark>
+
+<mark>If the players ask any questions:</mark>
+
 Harroch says:
-“Wait, where’s the captain? For all I know, that droid’s your fault. You bring me the captain and I’ll help you out.”
-If the players notify Harroch of the captain’s death:
+
+> *“Wait, where’s the captain? For all I know, that droid’s your fault. You bring me the captain and I’ll help you out.”*
+
+
+
+<mark>If the players notify Harroch of the captain’s death:</mark>
+
 He replies with:
-“I guess it’s just you and me, then. The captain was the last one of us to try to get to the escape pods, but it didn’t matter anyway. The droid locked out the launching mechanism and then slaughtered us all up here. The captain must have locked himself in the brig, which is secure enough that the droid couldn’t get in… well, at least until you unlocked it for him.”
-He shakes his head mournfully,
-“What are you doing here, anyway?”
-Players can attempt a (DC 13) Deception check (with advantage, to represent the engineer’s attitude towards you for saving him) or simply tell him the truth. Passing the check, he responds with:
-“Well, we need to get to the end of our patrol route. Three jumps ahead and we’ll be at the staging point for this sector, and we can get help from other ships there.”
+
+> *“I guess it’s just you and me, then. The captain was the last one of us to try to get to the escape pods, but it didn’t matter anyway. The droid locked out the launching mechanism and then slaughtered us all up here. The captain must have locked himself in the brig, which is secure enough that the droid couldn’t get in… well, at least until you unlocked it for him.”*
+
+> *He shakes his head mournfully,*
+
+> *“What are you doing here, anyway?”*
+
+
+
+Players can attempt a **(DC 13) Deception** check (with advantage, to represent the engineer’s attitude towards you for saving him) or simply tell him the truth. Passing the check, he responds with:
+
+> *“Well, we need to get to the end of our patrol route. Three jumps ahead and we’ll be at the staging point for this sector, and we can get help from other ships there.”*
+
+
+
 Failing the check (or telling the truth about your mission):
-“Yeah, I pretty much had you figured for Rebels, or at best, scavengers. Frankly, I don’t care where you get me to, as long as it’s not here.”
+
+> *“Yeah, I pretty much had you figured for Rebels, or at best, scavengers. Frankly, I don’t care where you get me to, as long as it’s not here.”*
+
+
+
 Either way, he should continue with:
-“To get out of here, we’ll need the hyperdrive back online. That rogue RA-7 has a passkey he’s used to disable the hyperdrive, and you’ll need to get that from him. Once you’ve gotten that, you can unlock the system, but you’ll still need my authorization to restart the sequence. Then, once all that’s done, we’ll need to fire up the systems we need to make the jump. That’s getting ahead of myself, though, I suppose. Let me know when you’ve unlocked the hyperdrive.”
-If questioned about the state they found him in:
-“I was in the engine access when that blasted droid set off some mixture of cyanogen gas that he managed to get his hands on. How he found it, I don’t know – I guess I’m lucky enough that he didn’t have enough for a full-strength dispersal. I must have passed out, because when I woke up, I found myself dragged to the top deck with the bodies of the rest of the crew.”
-If the players have brought the hyperdrive back online:
-“Great, now we’ve got to start up the rest of the systems we need to make the jump to hyperspace. You’ll want to get your best pilot and astrogator up to the bridge to ready us for the jump. Any one of you who fancies himself a mechanic? I could use your help in Engineering on Deck 2 to monitor the engines. Finally, we’ll need someone decent with computers in shield control on Deck 3 to monitor the shields.”
-Note: At this point, the party should split into three groups. One to head to the bridge (deck 3), one to head to shield control (deck 3), and one to head to engineering on deck 2.
-As soon as the players have made it to each location:
-Over the ship’s intercom, you hear Harroch’s voice:
-“All right, are we all in place. Everyone ready? Here’s what we need to do:”
-Before he can finish the sentence, however, you head the clunk-clunk-clunk of mechanical footsteps outside – IG-97 droids have heard the announcement and are rushing to each location!
+
+> *“To get out of here, we’ll need the hyperdrive back online. That rogue RA-7 has a passkey he’s used to disable the hyperdrive, and you’ll need to get that from him. Once you’ve gotten that, you can unlock the system, but you’ll still need my authorization to restart the sequence. Then, once all that’s done, we’ll need to fire up the systems we need to make the jump. That’s getting ahead of myself, though, I suppose. Let me know when you’ve unlocked the hyperdrive.”*
+
+
+
+<mark>If questioned about the state they found him in:</mark>
+
+> *“I was in the engine access when that blasted droid set off some mixture of cyanogen gas that he managed to get his hands on. How he found it, I don’t know – I guess I’m lucky enough that he didn’t have enough for a full-strength dispersal. I must have passed out, because when I woke up, I found myself dragged to the top deck with the bodies of the rest of the crew.”*
+
+
+
+<mark>If the players have brought the hyperdrive back online:</mark>
+
+> *“Great, now we’ve got to start up the rest of the systems we need to make the jump to hyperspace. You’ll want to get your best pilot and astrogator up to the bridge to ready us for the jump. Any one of you who fancies himself a mechanic? I could use your help in Engineering on Deck 2 to monitor the engines. Finally, we’ll need someone decent with computers in shield control on Deck 3 to monitor the shields.”*
+
+
+
+`Note: At this point, the party should split into three groups. One to head to the bridge (deck 3), one to head to shield control (deck 3), and one to head to engineering on deck 2.`
+
+
+
+<mark>As soon as the players have made it to each location:</mark>
+
+> *Over the ship’s intercom, you hear Harroch’s voice:*
+
+> *“All right, are we all in place. Everyone ready? Here’s what we need to do:”*
+
+> *Before he can finish the sentence, however, you head the clunk-clunk-clunk of mechanical footsteps outside – IG-97 droids have heard the announcement and are rushing to each location!*
+
+
+
 There should be at least one droid at each location, but if players move to meet up with each other (instead of each taking on their individual encounter), the droids should follow them. At this point, the only security (IG-97) droids remaining should be the ones at each player’s location – if there are extra, move them off the board in the shuffle.
-Once the players have successfully resolved the battle:
-Harroch wipes a few beads of sweat from his brow and keys the ship’s intercom:
-“Emperor’s black bones! I thought we were rid of those droids.” 
-He pauses at a computer terminal.
- “…well, I’ve just checked. Those were the last. Now, where were we?”
+
+
+
+<mark>Once the players have successfully resolved the battle:</mark>
+
+> *Harroch wipes a few beads of sweat from his brow and keys the ship’s intercom:*
+
+> *“Emperor’s black bones! I thought we were rid of those droids.” *
+
+> *He pauses at a computer terminal.*
+
+> *“…well, I’ve just double-checked. Those were the last. Now, where were we?”*
+
+
+
 If the players don’t automatically do so, Harroch should remind them that they need to be in their respective locations for the hyperspace jump start-up sequence. Once the players have all made it to their locations, they need to make the following checks:
-On the bridge (Deck 3):
-Intelligence(Piloting) (DC 12) to make sure control of ship’s systems is being restored to the main console
-Astrogation (DC 13) to verify that the navicomputer is coming back online with the hyperdrive 
-If the player is accompanied by the rebuilt astromech then the astromech automatically succeeds on the check
-In Shield control (Deck 3):
-Intelligence(Technology) (DC 13) to monitor shield readings as the shields prep for a jump to lightspeed
- In Engineering (Deck 2): 
-Intelligence(Technology)  (DC 19)
-Harroch is helping with this check, and grants advantage to the PC
-If one of the groups fails a check:
+
+
+
+#### On the bridge (Deck 3):
+
+**Astrogation (DC 13)** to verify that the navicomputer is coming back online with the hyperdrive 
+
+* If the player is accompanied by the rebuilt astromech, then the astromech automatically succeeds on the check
+
+
+
+#### In Shield control (Deck 3):
+
+**Intelligence(Technology) (DC 13**) to monitor shield readings as the shields prep for a jump to lightspeed
+
+
+
+#### In Engineering (Deck 2): 
+
+**Intelligence(Technology)  (DC 19)**
+
+* Harroch is helping with this check, and grants advantage to the PC
+
+
+
+<mark>If one of the groups fails a check:</mark>
+
 There are no penalties for failure other than those incurred by threat, but to move forward, everyone must pass the roll at the same time.
-Note: The above challenge is for a minimum of four players. If there are fewer players or if your players’ skillsets are insufficient, I’d suggest removing whichever check feels less applicable until you get it down to a number of simultaneous checks that is no greater than your number of players.
-Upon passing the check:
-As you finally bring the ship’s systems online, the Bendu’s Shadow lurches forward and familiar star lines blur into the blue tunnel of hyperspace.
+
+
+
+`Note: The above challenge is for a minimum of four players. If there are fewer players or if your players’ skillsets are insufficient, I’d suggest removing whichever check feels less applicable until you get it down to a number of simultaneous checks that is no greater than your number of players.`
+
+
+
+<mark>Upon passing the check:</mark>
+
+> *As you finally bring the ship’s systems online, the Bendu’s Shadow lurches forward and familiar star lines blur into the blue tunnel of hyperspace.*
+
+
+
 If the players may want to pause to heal/etc., offer this as a pause, otherwise the trip is incidental in game time.
-As you drop out of hyperspace, you look out the main viewport and see the frigate Adegan Sunrise waiting for you, as promised.
-If the players haven’t set the corvette’s transponder to broadcast a Rebel signal:
+
+
+
+> *As you drop out of hyperspace, you look out the main viewport and see the frigate Adegan Sunrise waiting for you, as promised.*
+
+
+
+<mark>If the players haven’t set the corvette’s transponder to broadcast a Rebel signal:</mark>
+
 The Adegan Sunrise should fire on the players. Roll for damage and give the players an opportunity to communicate with the Sunrise. Make sure that the Rebels chide the players for forgetting or failing to set the correct IFF codes, and then proceed as below.
-If the players have set the transponder to broadcast the Rebel IFF:
-You hear a familiar voice come in over the comms channel;
-“Well done, Bendu’s Shadow. Pull on up alongside us and we’ll get a crew of techs over there to reset the Shadow’s hyperdrive so that it’s useable.”
-Note: Because the corvette is slaved to an Imperial patrol route, it’s worthless until Rebel technicians have had a chance to wipe that part of its computer. Remember this if your players feel like trotting off with their freshly-stolen corvette.
-“And as for your ship, you’ll be pleased to know that it’s once again in tip-top shape, and I believe you’ve got a healthy payment waiting in some crates in your cargo hold. Nice work!”
-Note: At this point, you can resolve the story as you would a standalone campaign. Give a little more congratulatory denouement via Major Dernigan and provide the players with their reward. However, if you wish to continue on to the Stalitz Flight campaign (which is designed to follow this one directly), continue below for the cliffhanger.
-As you steer the ship towards the Adegan Sunrise, you hear the proximity sensors squawk a warning, and as you look out the viewscreen, a chill comes over you. Blotting out the starlight is a steel-grey wedge – larger, far larger, than the Interdictor you dealt with before. The data readout in front of you confirms what the pit in your stomach already suspected – this is an Imperial-class Star Destroyer, the deadly backbone of the Empire’s fleet. You’ve got a bad feeling about this…
+
+
+
+<mark>If the players have set the transponder to broadcast the Rebel IFF:</mark>
+
+> *You hear a familiar voice come in over the comms channel;*
+
+> *“Well done, Bendu’s Shadow. Pull on up alongside us and we’ll get a crew of techs over there to reset the Shadow’s hyperdrive so that it’s useable.”*
+
+
+
+`Note: Because the corvette is slaved to an Imperial patrol route, it’s worthless until Rebel technicians have had a chance to wipe that part of its computer. Remember this if your players feel like trotting off with their freshly-stolen corvette.`
+
+
+
+> *“And as for your ship, you’ll be pleased to know that it’s once again in tip-top shape, and I believe you’ve got a healthy payment waiting in some crates in your cargo hold. Nice work!”*
+
+
+
+`Note: At this point, you can resolve the story as you would a standalone campaign. Give a little more congratulatory denouement via Major Dernigan and provide the players with their reward. However, if you wish to continue on to the Stalitz Flight campaign (which is designed to follow this one directly), continue below for the cliffhanger.`
+
+
+
+> *As you steer the ship towards the Adegan Sunrise, you hear the proximity sensors squawk a warning, and as you look out the viewscreen, a chill comes over you. Blotting out the starlight is a steel-grey wedge – larger, far larger, than the Interdictor you dealt with before. The data readout in front of you confirms what the pit in your stomach already suspected – this is an Imperial-class Star Destroyer, the deadly backbone of the Empire’s fleet. You’ve got a bad feeling about this…*
