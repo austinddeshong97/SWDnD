@@ -30,7 +30,7 @@
 
 #### Zevaa Cir'du
 
-> Zevaa just completed a job for a local Rebel cell on Nanth'ri. She eliminated key Imperial officers at the city of Ba'lorka and allowed the Rebels to steal a shuttle with Imperial data on board. She is currently lying low in Totora, but wants to get off world sooner rather than later in case things get sticky...
+> Zevaa just completed a job for a local Rebel cell on Nanth'ri. She eliminated key Imperial officers at the city of Ba'lorka and allowed the Rebels to steal a shuttle with Imperial data on board. She is currently lying low in Totora, but wants to get off world sooner rather than later in case things get sticky. Maybe she can find a ship off world in the cantina...
 
 * Zevaa starts this adventure with 5000cr and whatever gear she normally carries
 
@@ -49,6 +49,8 @@
 * Repulsor-lifts: Engines that keep a ship in the sky when within a planets atmosphere or gravitational pull.
 * Hyperdrive: Engine that allows the ship to leave real-space and move through hyperspace at lightspeed. There are different classes of hyperdrives that can either shorten or lengthen the duration of lightspeed journeys.
 
+
+
 #### Mechanics
 
 * Whenever a jump to lightspeed is to occur, the hyperdrive must be primed, and the journey must be programmed into the ships navigation
@@ -56,7 +58,13 @@
 * The jump to lightspeed can be calculated by a character at the Navicomputer, or by a droid with the necessary capabilities.
 * To avoid being detected by enemy scanners, all systems on a ship must be powered off, even droids.
 
+
+
 #### Notes
+
+
+
+### Opportunity to Modify Character Sheets
 
 
 
@@ -65,6 +73,7 @@
 * The only information readily available to you as a player is whatever you can find in the Player's Handbook. Anything beyond that must be cleared by the GM on a case-by-case basis.
 * This includes the Galaxy Map. If your character wants to query the map, find a terminal, or use the ships Navicomputer.
 * Information about NPCs, ships, enemies, objects, cities, etc, must be learned (within reason). Your characters is not omniscient, so if you don't know something, find a way to find it out. Maybe there's a reason you don't know that thing
+* You all will be responsible for your own character sheets, so I may be poking you all for info now and then
 
 
 
@@ -74,3 +83,6 @@
 
 ## Contextual Debrief
 
+> Nanth'ri is primarily a foresty planet, but also has some grassland regions. It is a mid-rim world under partial Imperial control. The city of Totora is a spaceport and marketplace, and is frequented by traders and travelers, since Nanth'ri is on a converging hyperspace route.
+
+> You are all sitting at the bar in the *Yub Grub Cantina* adjacent to the docking bays of the spaceport.
