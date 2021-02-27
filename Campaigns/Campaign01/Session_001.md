@@ -86,3 +86,14 @@
 > Nanth'ri is primarily a foresty planet, but also has some grassland regions. It is a mid-rim world under partial Imperial control. The city of Totora is a spaceport and marketplace, and is frequented by traders and travelers, since Nanth'ri is on a converging hyperspace route.
 
 > You are all sitting at the bar in the *Yub Grub Cantina* adjacent to the docking bays of the spaceport.
+
+
+
+## Gameplay
+
+`Let the players explore and interact with each other or NPCs in the cantina, as they desire`
+
+
+
+
+
