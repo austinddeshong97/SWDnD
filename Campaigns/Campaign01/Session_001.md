@@ -73,6 +73,7 @@
 * The only information readily available to you as a player is whatever you can find in the Player's Handbook. Anything beyond that must be cleared by the GM on a case-by-case basis.
 * This includes the Galaxy Map. If your character wants to query the map, find a terminal, or use the ships Navicomputer.
 * Information about NPCs, ships, enemies, objects, cities, etc, must be learned (within reason). Your characters is not omniscient, so if you don't know something, find a way to find it out. Maybe there's a reason you don't know that thing
+  * Species images and general info is okay, and I'll try to have those ready if needed.
 * You all will be responsible for your own character sheets, so I may be poking you all for info now and then
 
 
