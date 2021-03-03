@@ -57,6 +57,7 @@
 * In order to prime the Hyperdrive, you must be out of a planets orbit, and it take 1 minute to power up.
 * The jump to lightspeed can be calculated by a character at the Navicomputer, or by a droid with the necessary capabilities.
 * To avoid being detected by enemy scanners, all systems on a ship must be powered off, even droids.
+* If you are super vague when describing an action, I may not tell you to be more specific, I may just give you a harder DC, and vice-versa. More RP, lower DC.
 
 
 
@@ -138,6 +139,8 @@
 
 > The Imperials take you two hangars over, where an Imperial Shuttle resides. You board the shuttle with one of the three squads and Agent Barda, and are strapped into seats.
 
+
+
 > About ten minutes into the journey, you overhear two of the stormtroopers.
 >
 > "Did you hear about the upcoming inspection?"
@@ -154,7 +157,86 @@
 
 
 
+> You feel the shuttle come to a rest, and the stormtroopers unlock the seat harnesses and escort you off the craft. As you descend the ramp, you see you are on the rooftop landing platform of a small base in the middle of a forest somewhere on the planet.
+>
+> The troopers escort you inside, down a hall, downstairs, and into a detention cell.
+
+`Allow players to read the signs on the walls as they pass by if possible`
+
+> They remove your binders and lock the cell ray shields.
 
 
 
+<mark>If the players figure out a way to open the ray shields:</mark>
+
+```
+Hidden in one of the beds is a power cell they can use to overload the shield controls. Use the following benchmark to determine Technology DC based on how verbose they decide to be
+
+DC5 Extra-verbose on how power cell will be used
+DC10 Not super detailed but they have the idea
+DC15 Fairly vague, but some effort was put forward
+DC20 "I use the power cell to open the shield"
+```
+
+
+
+<mark>If the players wait it out, Agent Barda returns to interrogate them:</mark>
+
+`This can be fairly free-form. Barda is convinced that he captured the right people, but if the players make a strong enough argument, he doesn't have much hard evidence.`
+
+
+
+<mark>If the players talk their way into a release:</mark>
+
+Requires decent reason and a **Persuasion (DC15)**
+
+> "As much as I would have liked to have three rebels out of circulation, I'm afraid today is not that day."
+>
+> "My troops and I have a more sweeps to make, so getting back is going to be your problem. Totora is 20 miles east of here, and you are more than welcome to make the journey on foot."
+
+
+
+However the players get out of the cell, at this point they may explore the base.
+
+
+
+<mark>If they escaped the cell before talking to Barda</mark>: The stormtroopers and officers will try and capture them on sight.
+
+<mark>If they convinced Barda to release them</mark>: Imperials won't interfere with them unless they loiter, act suspicious, or go where they don't belong.
+
+
+
+**Generic Checks while exploring**
+
+Persuade a trooper or officer **Persuasion or Deception (DC10)**
+
+Access a terminal without any other tools **Technology (DC10)**
+
+
+
+`The players will hopefully find the holo message from the Grand Inquisitor regarding the holocrons and Cal Kestus before leaving. If not, have them hear a call when passing by the storage room.`
+
+`They will also hopefully steal three of the speeders to get back to Totora, where they will open the bay doors, board their ship and depart`
+
+`If more time is needed, have them be pursued by 3 TIE Fighters`
+
+`Have the players decide where to go next and end session`
+
+
+
+<mark>If the players want to open each holicron before deciding where to go</mark>:
+
+Roll a **(DC10)** to open a Hol0cron
+
+On opening of Jedi Holocron:
+
+> The Holocron begins to float in the air and glow as the corners rotate synchronously. Two different glowing images appear as the holocron projects them above itself; The first, a section of galaxy map, the second, what appears to be a map of a large section of a planets surface. Both images have what seems to be clear directions to specific locations on each.
+>
+> When cross-referenced with the Navicomputer, the planet indicated on the map is Acherin
+
+On opening of Sith Holocron:
+
+> This holocron emits a spine-tingling scream as it opens. Galactic coordinates in a scrawled script are projected above it.
+>
+> When punched in to the Navicomputer, it pulls up the planet Batuu
 
