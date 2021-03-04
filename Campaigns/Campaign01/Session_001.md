@@ -22,7 +22,7 @@
 
 > OshKosh has been roaming the galaxy in search of answers, and seeks knowledge of the greater world. The Sublight Drives on his ship, a BT-7 Thunderclap known as *The Sentinel's Stand*, are shot. Looking for a place to find repairs, he felt a strange draw to the planet Nanth'ri. He sets the *Sentinel's Stand* down in Docking Bay 3 at the Totora spaceport.
 >
-> Perhaps he can get some information on where to find decent drive parts in the local cantina, and maybe find out something interesting in this part of the galaxy along the way...
+> Perhaps he can get some information on where to find decent drive parts in the local cantina, and maybe find out something interesting about this part of the galaxy along the way...
 
 * OshKosh starts this adventure with 1000cr and whatever gear he normally carries
 
