@@ -105,13 +105,13 @@
 
 
 
-> As you are about to lift off and set out, the hangar bay doors above you begin to close, and the bay lights illuminate to compensate for the loss of sunlight. Out of the cockpit windows, three squads of Imperial stormtroopers enter the Docking Bay and start to encircle your ship, followed by a figure in a gray armored uniform that stands out from the rest. A steady beeping and accompanying light emits from the comms panel, you are being hailed.
+> As you are about to lift off and set out, the hangar bay doors above you begin to close, and the bay lights illuminate to compensate for the loss of sunlight. Out of the cockpit windows, a squad of Imperial stormtroopers enter the Docking Bay and start to encircle your ship, followed by a figure in a gray armored uniform that stands out from the rest. A steady beeping and accompanying light emits from the comms panel, you are being hailed.
 
 
 
 <mark>If they decide to ignore the hail:</mark>
 
-> The stormtoopers board the *Sentinel's Stand*, followed by the officer.
+> The stormtroopers board the *Sentinel's Stand*, followed by the officer.
 
 `Continue with the officers remarks bellow`
 
@@ -137,7 +137,7 @@
 
 
 
-> The Imperials take you two hangars over, where an Imperial Shuttle resides. You board the shuttle with one of the three squads and Agent Barda, and are strapped into seats.
+> The Imperials take you two hangars over, where an Imperial Shuttle resides. You board the shuttle with the sqaud and Agent Barda, and are strapped into seats.
 
 
 
@@ -214,11 +214,11 @@ Access a terminal without any other tools **Technology (DC10)**
 
 
 
-`The players will hopefully find the holo message from the Grand Inquisitor regarding the holocrons and Cal Kestus before leaving. If not, have them hear a call when passing by the storage room.`
+`The players will hopefully find the holo message from the Grand Inquisitor regarding the holocrons and Cal Kestus before leaving. If they don't find the holocrons, have them hear a call when passing by the storage room.`
 
 `They will also hopefully steal three of the speeders to get back to Totora, where they will open the bay doors, board their ship and depart`
 
-`If more time is needed, have them be pursued by 3 TIE Fighters`
+`If more time is needed, have them be pursued by 3 TIE Fighters, but only if they don't talk their way out of the cell`
 
 `Have the players decide where to go next and end session`
 
